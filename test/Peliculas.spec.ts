@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 import 'mocha';
-import {Peliculas} from '../../src/ejercicio-2/Peliculas';
+import {Peliculas} from '../src/Peliculas';
 
 const peliculasBaseDeDatos = new Peliculas([{year: 2014, descriptor: 'Accion', titulo: 'Capitan América: El soldado de Invierno', director: 'Hermanos Russo', actores: ['Scarlett Johansson', 'Chris Evans']},
   {year: 2020, descriptor: 'Musical', titulo: 'Tick, Tick... Boom!', director: 'Lin-Manuel Miranda', actores: ['Andrew Garfield', 'Alexandra Shipp']}]);
