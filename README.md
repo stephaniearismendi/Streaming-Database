@@ -10,3 +10,4 @@
 
 
 Development of a battle between characters from different universes in TypeScript. Each Universe has its own **combos**, and in a _single_ dangerous situation they can use them. Something that can be decisive for the fight.
+[![Tests](https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml/badge.svg)](https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml)
