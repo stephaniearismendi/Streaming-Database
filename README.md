@@ -1,8 +1,8 @@
 # Streaming Database.
 
 <p align="center">
-    <a href="https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml">
-        <img alt="Tests" src="https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml/badge.svg">
+    <a href="https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml/badge.svg?branch=main">
+        <img alt="Tests" src="https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml">
     </a>
     <a href='https://coveralls.io/github/stephaniearismendi/Streaming-Database?branch=main'>
         <img src='https://coveralls.io/repos/github/stephaniearismendi/Streaming-Database/badge.svg?branch=main' alt='Coverage Status' /></a>
