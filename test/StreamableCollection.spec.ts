@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 import 'mocha';
-import {Series} from '../../src/ejercicio-2/Series';
+import {Series} from '../src/Series';
 
 const seriesBaseDeDatos = new Series([{year: 2011, descriptor: 'Drama', titulo: 'Teen Wolf', temporadas: 6, director: 'Jeff Davis'},
   {year: 2009, descriptor: 'Drama', titulo: 'The Vampire Diaries', temporadas: 8, director: 'Julie Plec'}]);
