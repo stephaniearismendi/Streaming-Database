@@ -5,7 +5,7 @@
         <img alt="Tests" src="https://github.com/stephaniearismendi/Streaming-Database/actions/workflows/test.js.yml/badge.svg">
     </a>
     <a href='https://coveralls.io/github/stephaniearismendi/Streaming-Database?branch=main'>
-        <img src='https://coveralls.io/repos/github/stephaniearismendi/Streaming-   Database/badge.svg?branch=main' alt='Coverage Status' /></a>
+        <img src='https://coveralls.io/repos/github/stephaniearismendi/Streaming-Database/badge.svg?branch=main' alt='Coverage Status' /></a>
 </p>
 
 
