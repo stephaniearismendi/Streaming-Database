@@ -1,4 +1,4 @@
-import {Series} from '../../src/ejercicio-2/Series';
+import {Series} from '../src/Series';
 import {expect} from 'chai';
 import 'mocha';
 
