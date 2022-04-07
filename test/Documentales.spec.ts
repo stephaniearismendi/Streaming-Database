@@ -1,6 +1,6 @@
 import {expect} from 'chai';
 import 'mocha';
-import {Documentales} from '../../src/ejercicio-2/Documentales';
+import {Documentales} from '../src/Documentales';
 
 const documentalesBaseDatos = new Documentales([{year: 2021, descriptor: 'Información y actualidad', titulo: 'El ejército de hackers de China', cadena: 'RTVE'},
   {year: 2021, descriptor: 'Biografías', titulo: 'Ruiz-Mateos: el primer fenómeno viral', cadena: 'RTVE'}]);
