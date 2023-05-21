@@ -13,7 +13,7 @@ This project is a database of movies and series from streaming platforms that ca
 
 ## Features
 
-- The database contains information about more than 10,000 movies and series of different genres, languages and countries.
+- The database contains information about movies and series of different genres, languages and countries.
 - The REST API allows you to query by title, year, genre, platform, rating, etc.
 - The REST API returns the results in JSON format with the relevant data of each movie or series.
 - The database and the API run on a Node.js server with Express.js and MongoDB.
